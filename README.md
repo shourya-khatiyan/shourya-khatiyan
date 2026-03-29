@@ -4,15 +4,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DF9FF&center=true&width=1000&lines=AI+%26+ML+Developer;Building+Intelligent+Systems+with+Vision+and+Language" alt="Typing SVG" />
 </p>
 
-
-<h3 align="center">
-  <a href="#" style="background: linear-gradient(to right, #00affa, #764ada, #7df9ff);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;">
-    B.Tech in Computer Science | CGC Landran
-  </a>
-</h3>
-
 ---
 
 <div>
