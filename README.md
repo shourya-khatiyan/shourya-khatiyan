@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=4F98A3&center=true&vCenter=true&width=750&lines=Shourya+Singh+Khatiyan;AI+%26+ML+Developer;Building+Intelligent+Systems+with+Vision+%26+Language" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=4F98A3&center=true&vCenter=true&width=750&lines=Shourya+Singh+Khatiyan;AI+%26+ML+Developer;Building+Intelligent+Systems" alt="Typing SVG" />
 
 <br/>
 
@@ -34,10 +34,11 @@
     <td width="58%" valign="middle">
       <h3>What I Build</h3>
       <ul>
-        <li>End-to-end AI systems</li>
+        <li>end-to-end AI systems</li>
         <li>RAG pipelines and LLM-powered applications</li>
-        <li>Production-ready APIs and containerized ML services</li>
-        <li>Interactive interfaces that make AI accessible</li>
+        <li>standardized MCP server toolkits</li>
+        <li>production-ready APIs and containerized ML services</li>
+        <li>interactive interfaces that make AI accessible</li>
       </ul>
     </td>
   </tr>
